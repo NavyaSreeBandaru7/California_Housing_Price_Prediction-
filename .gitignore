@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/processed_*
+
+# Models
+models/*.pkl   # Ignore large model files (include in repo for demo)
+
+# Environments
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
